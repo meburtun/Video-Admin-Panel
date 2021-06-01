@@ -1,0 +1,15 @@
+#container{
+    text-align: center;
+   
+    
+}
+#copy{
+    clear: both;
+    padding: 5px 10px;
+    text-align: center;
+}
+#buton{
+    position: absolute;
+    right: 20px;
+    top: 50px;
+}
